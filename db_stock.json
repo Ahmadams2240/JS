@@ -1,0 +1,21 @@
+[
+   {
+      "code": "test",
+      "name": "Judul Produk",
+      "price": 100,
+      "description": "Deskripsi",
+      "stockSold": 0,
+      "totalStock": 2,
+      "accounts": [
+         {
+            "email": "emailstock1@gmail.com",
+            "password": "passwordstock1"
+         },
+         {
+            "email": "emailstock2@gmail.com",
+            "password": "passwordstock2"
+         }
+      ],
+      "keterangan": "Keterangan Produk"
+   }
+]

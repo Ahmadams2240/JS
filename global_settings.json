@@ -1,0 +1,20 @@
+{
+    "merchant_id": "",
+    "secret_key": "",
+    "owner": [
+        ""
+    ],
+    "isPairing": true,
+    "mess": {
+        "rowner": "*• Owner Mode:* This feature is only for owners",
+        "owner": "*• Owner Mode:* This feature is only for owners",
+        "mods": "*• Moderator Mode:* This feature is for moderators only",
+        "group": "*• Group Mode:* This feature is only for groups",
+        "banned": "*• Banned Mode:* This feature is only for Banned user",
+        "private": "*• Private Chat Mode:* This feature is only for private chat",
+        "admin": "*• Admin Mode:* This feature is only for admin",
+        "botAdmin": "*• Bot Admin Mode:* Bot must be an admin to use this feature",
+        "restrict": "*• Restricted Mode:* This feature has disabled",
+        "notRegistered": "Silahkan ketik `daftar` Untuk Melanjutkan"
+    }
+}
